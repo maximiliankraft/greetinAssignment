@@ -9,5 +9,7 @@ public class PersonController {
     //          Statuscode: 200
     //          Body: Hello, <name>
 
+    // more infos on how to implement this here
+    // --> https://spring.io/guides/gs/spring-boot/
 
 }
